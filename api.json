@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 1000,
+      "id": 1,
+      "title": "Horse",
+      "thumbnailUrl": "https://i.ibb.co/7J5NGyT/art-1.jpg"
+    },
+    {
+      "precio": 1500,
+      "id": 2,
+      "title": "Lady",
+      "thumbnailUrl": "https://i.ibb.co/Km1kLZG/art-2.jpg"
+    },
+    {
+      "precio": 800,
+      "id": 3,
+      "title": "Balloon",
+      "thumbnailUrl": "https://i.ibb.co/VjzvZjf/art-3.jpg"
+    },
+    {
+      "precio": 900,
+      "id": 4,
+      "title": "Eye",
+      "thumbnailUrl": "https://i.ibb.co/FmD2SXz/art-4.jpg"
+    },
+    {
+      "precio": 2500,
+      "id": 5,
+      "title": "Rose",
+      "thumbnailUrl": "https://i.ibb.co/Ycp2P9s/art-5.jpg"
+    },
+    {
+      "precio": 3000,
+      "id": 6,
+      "title": "Coke",
+      "thumbnailUrl": "https://i.ibb.co/r73gHwY/art-6.jpg"
+    }
+  ]
